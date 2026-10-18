@@ -1,7 +1,7 @@
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     JAYASURIYANE / GITHUB                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                  M. JAYASURIYANE / GITHUB                     -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -34,31 +34,13 @@
 
 ### `01 / ABOUT`
 
-```python
-class Jayasuriyane:
-    def __init__(self):
-        self.education = "B.Tech CSE @ NIT Puducherry"
-        self.role = "Founder @ Intuvora"
-        self.interests = [
-            "Software Engineering",
-            "Artificial Intelligence",
-            "Embedded Systems",
-            "Entrepreneurship"
-        ]
-        self.currently_building = "Tarka"
-        self.mindset = "Build. Break. Learn. Repeat."
+I'm **Jayasuriyane**, a Computer Science undergraduate at the **National Institute of Technology Puducherry** and the **Founder of [Intuvora](https://intuvora.in)**.
 
-    def next(self):
-        return "Something worth building."
-```
+I build things at the intersection of **software engineering, artificial intelligence, and product development**.
 
-I'm **Jayasuriyane**, a Computer Science undergraduate at the **National Institute of Technology Puducherry**.
+From experimenting with embedded systems to developing AI-powered applications, I'm interested in understanding how technology works and turning ideas into useful products.
 
-I like building things from scratch — intelligent applications, experimental systems, and products that start as nothing more than an interesting question.
-
-My interests move between **full-stack engineering, applied AI, embedded systems, and entrepreneurship**. I enjoy understanding what happens under the hood just as much as creating something people can use.
-
-I'm also the **Founder of [Intuvora](https://intuvora.in)**, an early-stage technology venture where I'm exploring ideas and building AI-powered products.
+I enjoy building from scratch, solving interesting problems, and learning through experimentation.
 
 > Less about collecting technologies. More about building with them.
 
@@ -238,41 +220,7 @@ Currently exploring **Tarka**, an AI-powered learning initiative.
 
 ---
 
-### `06 / BEYOND THE TERMINAL`
-
-Not everything I enjoy comes with a compiler.
-
-**♟ Chess** — Vice President of Dark Knights, the chess club at NIT Puducherry.
-
-**⌘ Open Source** — Exploring collaborative development, contributing to developer communities, and learning from the people building in public.
-
-**↗ Hackathons** — Taking ideas from concept to prototype under real constraints.
-
-**◈ Entrepreneurship** — Learning what it takes to build something from zero.
-
-<br/>
-
----
-
-### `07 / WHAT'S NEXT?`
-
-```text
-CURRENT STATUS
-────────────────────────────────────────
-[+] Building AI-powered products
-[+] Exploring applied machine learning
-[+] Learning scalable system design
-[+] Experimenting with embedded AI
-[+] Growing Intuvora
-[+] Open to meaningful collaborations
-────────────────────────────────────────
-```
-
-<br/>
-
----
-
-### `08 / LET'S CONNECT`
+### `06 / LET'S CONNECT`
 
 <div align="center">
 
