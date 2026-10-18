@@ -235,8 +235,8 @@ I'm always happy to connect with people who are curious, ambitious, and building
 <a href="https://github.com/jayasuriyane04">
   <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://intuvora.in">
-  <img src="https://img.shields.io/badge/Intuvora-181818?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Intuvora"/>
+<a href="https://www.linkedin.com/in/jayasuriyane">
+  <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
