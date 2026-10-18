@@ -1,90 +1,304 @@
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     JAYASURIYANE / GITHUB                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--
-**jayasuriyane04/jayasuriyane04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,50:303030,100:555555&text=M.%20JAYASURIYANE&fontColor=ffffff&fontSize=43&fontAlignY=38&desc=Developer%20%2F%20Builder%20%2F%20Founder&descAlignY=59&descSize=16&animation=fadeIn" width="100%" alt="M. Jayasuriyane" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hey there, I'm Jayasuriyane 👋
+<br/>
 
-> *Building things that solve real problems — one commit at a time.*
+### I turn curiosity into code, and code into things that matter.
 
----
+<sub>SOFTWARE ENGINEERING &nbsp;·&nbsp; ARTIFICIAL INTELLIGENCE &nbsp;·&nbsp; ENTREPRENEURSHIP</sub>
 
-##  About Me
+<br/><br/>
 
-I'm a student developer at **NIT Puducherry 🎓**, passionate about turning ideas into working software.
+<a href="https://intuvora.in">
+  <img src="https://img.shields.io/badge/INTUVORA-FOUNDER-171717?style=for-the-badge&labelColor=171717&color=555555" alt="Founder of Intuvora"/>
+</a>
+<a href="https://github.com/jayasuriyane04">
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
--  Studying at **National Institute of Technology, Puducherry**
--  Deeply interested in **Cloud Architecture** — designing scalable, resilient systems
--  Currently learning **Full-Stack Development** and **Generative AI**
--  Exploring how AI can be integrated into real-world applications
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1300&color=888888&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+AI+and+software.;From+embedded+systems+to+intelligent+products.;Always+learning.+Always+building.;Currently+building+Intuvora." alt="Animated introduction" />
 
-##  Projects
+</div>
 
-### 📬 [Dreaserous Contact](https://github.com/jayasuriyane04/dreaserous-contact)
-A full-stack contact page with a dynamic FAQ section, form validation, and database-backed storage.
-- **Stack:** Angular · Express.js · SQLite
-- **Live:** [dreaserous-contact.onrender.com](https://dreaserous-contact.onrender.com)
-- **What I learned:** Connecting frontend/backend with APIs, CORS handling, deploying on Render
-
-### 📍 [Attendo — Attendance Manager PWA](https://github.com/jayasuriyane04/Attendo)
-A single-file Progressive Web App that uses GPS geofencing to auto-detect class arrivals from an uploaded timetable.
-- **Stack:** HTML · CSS · JavaScript · Geolocation API
-- **Live:** [attendo-attendancemanager.netlify.app](https://attendo-attendancemanager.netlify.app/)
-- **Highlights:** Offline-capable, privacy-first, no cloud required
+<br/>
 
 ---
 
-##  Tech Stack
+### `01 / ABOUT`
 
-**Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+```python
+class Jayasuriyane:
+    def __init__(self):
+        self.education = "B.Tech CSE @ NIT Puducherry"
+        self.role = "Founder @ Intuvora"
+        self.interests = [
+            "Software Engineering",
+            "Artificial Intelligence",
+            "Embedded Systems",
+            "Entrepreneurship"
+        ]
+        self.currently_building = "Tarka"
+        self.mindset = "Build. Break. Learn. Repeat."
 
-**Backend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+    def next(self):
+        return "Something worth building."
+```
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+I'm **Jayasuriyane**, a Computer Science undergraduate at the **National Institute of Technology Puducherry**.
 
----
+I like building things from scratch — intelligent applications, experimental systems, and products that start as nothing more than an interesting question.
 
+My interests move between **full-stack engineering, applied AI, embedded systems, and entrepreneurship**. I enjoy understanding what happens under the hood just as much as creating something people can use.
 
-##  Currently Exploring
+I'm also the **Founder of [Intuvora](https://intuvora.in)**, an early-stage technology venture where I'm exploring ideas and building AI-powered products.
 
-- ☁️ **Cloud Architecture** — designing scalable, fault-tolerant systems on AWS/GCP/Azure
-- 🤖 Generative AI — working through [Microsoft's GenAI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
-- 📱 Progressive Web Apps and browser APIs (Geolocation, Service Workers)
-- 🔧 Infrastructure as Code, microservices, and distributed systems
+> Less about collecting technologies. More about building with them.
 
----
-
-##  Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayasuriyane%20Muthukumaran-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayasuriyane-muthukumaran-ba409b376/)
+<br/>
 
 ---
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
-</p>
+### `02 / SELECTED WORK`
+
+<div align="center">
+
+#### A few things I've been building.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 — TARKA
+
+**AI / EDTECH / FULL STACK**
+
+An AI-powered learning platform exploring how intelligent software can make education more personalized, interactive, and accessible.
+
+**Focus**
+- AI-powered learning experiences
+- Full-stack application development
+- Educational technology
+
+<a href="https://github.com/jayasuriyane04/tarka-v2">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-181818?style=for-the-badge&logo=github&logoColor=white" alt="Explore Tarka"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — CERTIFAI
+
+**MACHINE LEARNING / EXPLAINABLE AI**
+
+A physics-informed machine learning system exploring electromagnetic compatibility risks through interpretable AI and simulation-based analysis.
+
+**Focus**
+- XGBoost and SHAP
+- Explainable predictions
+- Engineering risk assessment
+
+<a href="https://github.com/jayasuriyane04/CertifAI">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-181818?style=for-the-badge&logo=github&logoColor=white" alt="Explore CertifAI"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 — TINYWAKE
+
+**EDGE AI / EMBEDDED SYSTEMS**
+
+A hybrid edge-cloud voice activation system exploring efficient keyword detection on low-power hardware.
+
+**Focus**
+- ESP32 and I2S audio
+- Keyword spotting
+- Edge-cloud speech processing
+
+<a href="https://github.com/jayasuriyane04/tinywake-f1">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-181818?style=for-the-badge&logo=github&logoColor=white" alt="Explore TinyWake"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — VYOMRAKSH
+
+**SPACE TECHNOLOGY / DATA SYSTEMS**
+
+A space situational awareness project exploring orbital debris monitoring, tracking, and visualization.
+
+**Focus**
+- Orbital data visualization
+- Tracking workflows
+- Backend and API integration
+
+<a href="https://github.com/jayasuriyane04/vyomraksh-v1">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-181818?style=for-the-badge&logo=github&logoColor=white" alt="Explore VyomRaksh"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### `03 / THE TOOLKIT`
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Python Java JavaScript TypeScript"/>
+
+<br/><br/>
+
+**DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=angular,nodejs,express,html,css,sqlite&theme=dark" alt="Web development technologies"/>
+
+<br/><br/>
+
+**AI / SYSTEMS / TOOLS**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,arduino,docker,linux,git,github&theme=dark" alt="AI systems and developer tools"/>
+
+<br/><br/>
+
+**WORKSPACE**
+
+<img src="https://skillicons.dev/icons?i=vscode,windows,ubuntu,vercel&theme=dark" alt="Development environment"/>
+
+</div>
+
+<br/>
+
+---
+
+### `04 / BUILDING INTUVORA`
+
+<div align="center">
+
+## INTUVORA
+
+**Ideas deserve to become real things.**
+
+</div>
+
+I'm building **Intuvora**, an early-stage technology venture focused on exploring meaningful problems and developing AI-powered software products.
+
+It's where engineering meets product thinking — where I get to work not just on *how* something should be built, but *why* it should exist.
+
+Currently exploring **Tarka**, an AI-powered learning initiative.
+
+<div align="center">
+
+<a href="https://intuvora.in">
+  <img src="https://img.shields.io/badge/EXPLORE_INTUVORA-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Intuvora"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+### `05 / GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jayasuriyane04&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=E5E5E5&text_color=999999&icon_color=AAAAAA&rank_icon=github" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasuriyane04&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=E5E5E5&text_color=999999&langs_count=6" height="165" alt="Most used repository languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayasuriyane04&bg_color=00000000&color=999999&line=888888&point=FFFFFF&area=true&area_color=555555&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub contribution activity"/>
+
+</div>
+
+<sub>Activity widgets are provided by third-party services and may occasionally be unavailable.</sub>
+
+<br/>
+
+---
+
+### `06 / BEYOND THE TERMINAL`
+
+Not everything I enjoy comes with a compiler.
+
+**♟ Chess** — Vice President of Dark Knights, the chess club at NIT Puducherry.
+
+**⌘ Open Source** — Exploring collaborative development, contributing to developer communities, and learning from the people building in public.
+
+**↗ Hackathons** — Taking ideas from concept to prototype under real constraints.
+
+**◈ Entrepreneurship** — Learning what it takes to build something from zero.
+
+<br/>
+
+---
+
+### `07 / WHAT'S NEXT?`
+
+```text
+CURRENT STATUS
+────────────────────────────────────────
+[+] Building AI-powered products
+[+] Exploring applied machine learning
+[+] Learning scalable system design
+[+] Experimenting with embedded AI
+[+] Growing Intuvora
+[+] Open to meaningful collaborations
+────────────────────────────────────────
+```
+
+<br/>
+
+---
+
+### `08 / LET'S CONNECT`
+
+<div align="center">
+
+### Good things usually start with a conversation.
+
+Have an idea, an interesting project, or something worth discussing?
+
+I'm always happy to connect with people who are curious, ambitious, and building things.
+
+<br/>
+
+<a href="https://github.com/jayasuriyane04">
+  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://intuvora.in">
+  <img src="https://img.shields.io/badge/Intuvora-181818?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Intuvora"/>
+</a>
+
+<br/><br/>
+
+**BUILD SOMETHING INTERESTING.**
+
+<br/>
+
+<sub>Designed with curiosity. Built one commit at a time.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:555555,50:303030,100:111111" width="100%" alt="Footer decoration"/>
